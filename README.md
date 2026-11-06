@@ -2,6 +2,8 @@
 
 Uma ferramenta web interativa e descomplicada que transforma qualquer tabela do Excel ou CSV em um modelo de Inteligência Artificial, gerando relatórios em linguagem simples sem que o usuário precise entender de programação ou estatística.
 
+Link da ferramenta online para uso: <a href="https://treinadorgenericoia.streamlit.app/">Clique aqui<a/>
+
 ---
 
 ## 📌 O que o projeto faz?
