@@ -46,8 +46,8 @@ Muitas empresas possuem toneladas de dados guardados em planilhas, mas não cont
 O projeto foi construído seguindo boas práticas de **modularização**, separando o código em três partes com responsabilidades bem definidas:
 
 ```text
-meu_projeto_ia/
+treinador_generico_ia/
 │
 ├── data_processing.py    # Leitura de planilhas e tratamento automático de dados
-├── ml_engine.py          # Treinamento do modelo de IA e cálculo de estatísticas
+├── logica_algoritmo.py          # Treinamento do modelo de IA e cálculo de estatísticas
 └── app.py                # Interface gráfica e telas interativas (Streamlit)
